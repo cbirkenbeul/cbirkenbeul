@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hi there, I'm Christian! 👋
 
-<!--
-**cbirkenbeul/cbirkenbeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Tech enthusiast, YouTuber, and IT professional.
 
-Here are some ideas to get you started:
+I ❤️ to inspire and educate people in IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create detailed tutorials focusing on known IT industry standards and share my best practices to help you get ahead in your career. Check out my YouTube Channel and 🚀 learn Linux, Windows, Docker and much more.
+
+## 🎬 YouTube Channel "teqqyde"
+
+I create regular content in german language for people who struggle with their private network. If you like to learn something new, feel free to check out my channel.
+
+### Become part of an awesome community of talented IT experts all around the world!
+
+👇👇👇 Checkout my YouTube Channel and follow me!
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnBQ7GosWO57aTpm2wR7Q7Q?label=YouTube%20Channel&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/teqqyde?style=flat-square)
+![Discord](https://img.shields.io/discord/552459328263684096?label=Join%20my%20Community&style=flat-square)
+
+
+## 🛠️ Technologies and Tools
+### DevOps & Cloud Technologies
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+</p>
+
+### Infrastructure & Network Technologies
+<p>
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />  
+</p>
+
+### Productivity & Communication Tools
+<p>
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+</p>
