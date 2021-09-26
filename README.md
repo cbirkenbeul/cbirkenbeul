@@ -32,7 +32,9 @@ I create regular content in german language for people who struggle with their p
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />  
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img alt="UnRaid" src="https://img.shields.io/badge/-Ubuntu-E57000?style=flat&logo=unraid&logoColor=white" /> 
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white" />
 </p>
 
 ### Productivity & Communication Tools
