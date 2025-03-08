@@ -15,8 +15,8 @@ I create regular content in german language for people who struggle with their p
 👇👇👇 Checkout my YouTube Channel and follow me!
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnBQ7GosWO57aTpm2wR7Q7Q?label=YouTube%20Channel&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/teqqyde?style=flat-square)
-![Discord](https://img.shields.io/discord/552459328263684096?label=Join%20my%20Community&style=flat-square)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/110577744439535455?domain=teqqy.social)
+
 
 
 ## 🛠️ Technologies and Tools
