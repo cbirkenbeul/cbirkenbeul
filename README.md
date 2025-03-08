@@ -15,9 +15,7 @@ I create regular content in german language for people who struggle with their p
 👇👇👇 Checkout my YouTube Channel and follow me!
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnBQ7GosWO57aTpm2wR7Q7Q?label=YouTube%20Channel&style=flat-square)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/110577744439535455?domain=teqqy.social)
-
-
+![Mastodon Follow](https://img.shields.io/mastodon/follow/110577744439535455?domain=teqqy.social&style=flat-square&label=Mastodon)
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
